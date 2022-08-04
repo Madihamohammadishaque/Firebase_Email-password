@@ -1,0 +1,10 @@
+com/example/firebaseproject/MainActivity.java
+ com.example.firebaseproject.MainActivity
+ com.example.firebaseproject.MainActivity$1
+ com.example.firebaseproject.MainActivity$1$1
+com/example/firebaseproject/UserActivity.java
+ com.example.firebaseproject.UserActivity
+com/example/firebaseproject/BuildConfig.java
+ com.example.firebaseproject.BuildConfig
+com/example/firebaseproject/ActivityLogin.java
+ com.example.firebaseproject.ActivityLogin
